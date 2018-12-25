@@ -1,2 +1,2 @@
 # react-webpack-multi-entries
-All Rights Reserved Devin
+All Rights Reserved by Devin
